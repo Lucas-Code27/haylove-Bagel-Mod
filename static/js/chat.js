@@ -35,7 +35,8 @@ function response() {
     'huff',
     'clop clop',
     '*aggressive snorting*',
-    '*whinny*'
+    '*whinny*',
+    '*bagel*'
   ];
   const randMessage = messages[Math.floor(Math.random()*messages.length)];
 
